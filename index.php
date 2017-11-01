@@ -35,17 +35,17 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
           <form class="navbar-form navbar-right">
-            <button type="button" class="btn btn-success" onclick="location.href='sign.htm';">Sign in</button>
+            <button type="button" class="btn btn-success" onclick="location.href='sign.php';">Sign in</button>
           </form>
           <ul class="nav navbar-nav">
             <li class="active"><a href="#contact">운영진 소개</a></li>
-            <li><a href="#talk">회의소</a></li>
+            <li><a href="/test/irc/">회의소</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">게시판<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="#">건의게시판</a></li>
                 <li><a href="#">자유게시판</a></li>
-                <li><a href="#">한줄 덕담</a></li>
+                <li><a href="/test/table/1.php">한줄 덕담</a></li>
               </ul>
             </li>
           </ul>
