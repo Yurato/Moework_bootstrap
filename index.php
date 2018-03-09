@@ -64,19 +64,19 @@
         <div class="row">
           <div class="col-lg-4">
             <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>한빛가람 - 그룹장</h2>
+            <h2>한빛가람 - 대표</h2>
             <p>현직 웹 프로그래머. <br><br>하루하루 프로그래머로써 바쁘게 살아가는 와중에 생활의 안식을 찾고자 케프랑 같이 모에워크를 생성 및 개발한다. 팀원중 유일한 사회인. 그룹장을 맡으면서 최고 군림하게 되었다.</p>
             <p><a class="btn btn-default" href="http://hanb.jp/" role="button" target="_blank">개인 프로필</a></p>
           </div>
           <div class="col-lg-4">
             <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>케프 - 디자이너</h2>
+            <h2>케프 - 운영지원</h2>
             <p>반도의 고등학생. <br><br>프로그래밍 공부겸 취미로 모에워크의 간단한 프로그래밍 및 디자인을 담당한다. 지금 보고있는 이 페이지도 케프가 만들었다고.. 하지만, 매우 병약해서 약으로 살아간다고 무방할 정도로 약을 많이 먹고산다.</p>
-            <p><a class="btn btn-default" href="https://hanbit.moe/test/keff/" role="button" target="_blank">개인 프로필</a></p>
+            <p><a class="btn btn-default" href="https://keffred.dothome.co.kr" role="button" target="_blank">개인 프로필</a></p>
           </div>
           <div class="col-lg-4">
             <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-            <h2>렌디 - 모니터링</h2>
+            <h2>렌디 - 공동대표</h2>
             <p>지극히 평범한 컴공과 대학교 1학년. <br><br>시키면 뭐든지 잘한다. 팀 내에서 뭔가 할려고 하지만, 딱히 할 일이 없다. 위의 2명이 거의 모든일을 알아서 다 처리해서.... 실제로 일을해도 하는일은 버그 리포트정도. 나이는 위의 한빛가람과 같다.</p>
             <p><a class="btn btn-default" href="#" role="button">개인 프로필</a></p>
           </div>
