@@ -19,6 +19,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+      <script language="javascript">
+        function ircalert(){
+            alert("개발중입니다.");
+          }
+      </script>
   </head>
 
   <body>
@@ -39,12 +44,12 @@
           </form>
           <ul class="nav navbar-nav">
             <li class="active"><a href="#contact">운영진 소개</a></li>
-            <li><a href="/test/irc/">회의소</a></li>
+            <li><a href="javascript:ircalert();">회의소</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">게시판<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="#">건의게시판</a></li>
-                <li><a href="#">자유게시판</a></li>
+                <li><a href="javascript:ircalert();">건의게시판</a></li>
+                <li><a href="javascript:ircalert();">자유게시판</a></li>
                 <li><a href="/test/table/1.php">한줄 덕담</a></li>
               </ul>
             </li>
